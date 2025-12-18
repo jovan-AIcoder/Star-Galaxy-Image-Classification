@@ -72,7 +72,7 @@ This indicates strong separability between stellar and galactic image features, 
 Overall Accuracy: **~81%**
 ROC Curve:
 
-![ROC_Curve](\roc_curve.png)
+![ROC_Curve](roc_curve.png)
 ---
 
 ## 🗂️ Repository Structure
