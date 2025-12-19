@@ -32,7 +32,7 @@ CLASS_NAMES = ["star", "galaxy"]
 # LOAD MODEL
 # =========================
 model = load_model(MODEL_PATH)
-
+model.summary()
 # =========================
 # DATA GENERATOR (TEST)
 # =========================
